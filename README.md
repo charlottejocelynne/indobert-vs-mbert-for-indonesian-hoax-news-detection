@@ -1,6 +1,12 @@
 # indobert-vs-mbert-for-indonesian-hoax-news-detection
 Comparison of IndoBERT and mBERT performance for detecting political fake news in the Indonesian language using fine-tuning. IndoBERT achieved higher accuracy and AUC, proving its effectiveness in understanding Indonesian linguistic context.
 
+## Publication
+This project is associated with the following research publication:
+Title: Perbandingan  Kinerja  IndoBERT  dan  MBERT  untuk  Deteksi Berita Hoaks Politik dalam Bahasa Indonesia
+Authors: Charlotte Jocelynne et al.  
+DOI: https://doi.org/10.23887/jstundiksha.v14i1.92126
+
 ## Comparison of IndoBERT and MBERT Performance for Political Fake News Detection in the Indonesian Language
 # Description
 This repository contains the implementation and analysis for the research titled “Comparison of IndoBERT and MBERT Performance for Political Fake News Detection in the Indonesian Language”, published in Jurnal Sains dan Teknologi (JST), Vol. 14, No. 1, 2025.
